@@ -34,7 +34,7 @@ Customer can leverage this design to make sure the container instances within pr
 
 [![cloudformation-launch-stack](https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?region=ap-northeast-1#/stacks/new?stackName=private-ecs-demo&templateURL=https://s3-us-west-2.amazonaws.com/pahud-cfn-us-west-2/amazon-ecs-private-cluster/cloudformation/service.yml)
 
-
+3. click the **DemoURL** in the cloudformation output tab when the stack  is completedly launched. You should be able to see the Nginx welcome page.
 
 ### Architecture Diagram
 
